@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Node.js dependencies
 node_modules/
 npm-debug.log*
@@ -65,3 +66,7 @@ yarn.lock
 
 # OS-specific
 *.lock
+=======
+node_modules
+.env
+>>>>>>> 07ec06a62b667f1a7da0cde080dc90af04f5436e
